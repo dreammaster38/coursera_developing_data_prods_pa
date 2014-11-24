@@ -10,6 +10,10 @@ A user will be able to configure settings like the passenger class, the age and 
 The result will be presented visually as plot and summarized as short text block.
 Furthermore some data could be visualized to see who has survived and who not. Within the following sections i'll describe the different parts of this app ans show it's usage.
 
+You can find the code of this Shiny App on my GitHub repository: [The Titanic Disaster Shiny App](https://github.com/dreammaster38/coursera_developing_data_prods_pa)
+
+Furthermore there's also a github repository with a little Pitch Presentation made with *R Presentaion* of this app: [Machine Learning from Titanic Disaster Shiny App Slides](https://github.com/dreammaster38/coursera_developing_data_prods_slides)
+
 ### Description and usage
 
 Now let's see what sections exists and what you could do/see there. While opening the site the model used for survival prediction will be generated in the background for you. The progress of this action will be shown as textual hint in the upper right.
