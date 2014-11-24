@@ -12,7 +12,9 @@ Furthermore some data could be visualized to see who has survived and who not. W
 
 You can find the code of this Shiny App on my GitHub repository: [The Titanic Disaster Shiny App](https://github.com/dreammaster38/coursera_developing_data_prods_pa)
 
-Furthermore there's also a github repository with a little Pitch Presentation made with *R Presentaion* of this app: [Machine Learning from Titanic Disaster Shiny App Slides](https://github.com/dreammaster38/coursera_developing_data_prods_slides)
+Furthermore there's also a github repository with a little Pitch Presentation made with *R Presentaion* of this app: [https://github.com/dreammaster38/coursera_developing_data_prods_slides](https://github.com/dreammaster38/coursera_developing_data_prods_slides)
+
+The presentation itself can be viewed here: [Machine Learning from Titanic Disaster Shiny App Presentation](http://dreammaster38.github.io/coursera_developing_data_prods_slides/#/)
 
 ### Description and usage
 
